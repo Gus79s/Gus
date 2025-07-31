@@ -26,3 +26,8 @@ main>h2{
     font-family:Quantico ;
 }
 
+main:hover{
+    background-color: rgba(1, 1, 255, 0.632);
+    color: white;
+}
+
